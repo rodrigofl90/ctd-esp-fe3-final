@@ -1,4 +1,10 @@
-import { createContext } from "react";
+//Creé un context a parte sin dame cuenta que ya estaba creado 
+
+
+
+
+
+{/*import { createContext } from "react";
 
 export const initialState = {theme: "", data: []}
 
@@ -12,4 +18,4 @@ export const ContextProvider = ({ children }) => {
       {children}
     </ContextGlobal.Provider>
   );
-};
+};*/}
